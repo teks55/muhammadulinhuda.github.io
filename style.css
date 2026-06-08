@@ -10,6 +10,13 @@ body{
     color:#333;
 }
 
+.profile{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit:cover;
+}
+
 header{
     background:#2563eb;
     color:white;
